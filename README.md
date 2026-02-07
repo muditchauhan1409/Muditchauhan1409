@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Mudit Chauhan 👋
 
-<!--
-**muditchauhan1409/Muditchauhan1409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student  
+💻 Java & DSA Learner  
+🚀 Full-Stack Developer in Progress  
+📍 Ghaziabad, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+I love building practical tech solutions that solve real student problems.  
+Currently focused on mastering Data Structures & Algorithms in Java and building full-stack projects.
+
+---
+
+## 🚀 Current Project
+### AI Study Planner
+A smart study management system built using:
+- HTML
+- CSS
+- JavaScript
+- Python (Flask)
+- SQLite
+
+---
+
+## 🌱 Currently Learning
+- Data Structures & Algorithms (Java)
+- Backend Development
+- System Design Fundamentals
+
+---
+
+## 🎯 2026 Goals
+- Become strong in problem-solving
+- Build 5+ solid full-stack projects
+- Crack high-level technical interviews
+
+---
+
+⭐ Always learning. Always building.
