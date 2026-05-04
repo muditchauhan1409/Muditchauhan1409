@@ -12,7 +12,7 @@
 
 <!-- Profile views & social badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=muditchauhan1409&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<img width="49%" src="https://gh-stats-gen.vercel.app/api?username=muditchauhan1409&theme=tokyonight&hide_border=true" />
   <a href="https://github.com/muditchauhan1409?tab=followers">
     <img src="https://img.shields.io/github/followers/muditchauhan1409?label=Followers&style=for-the-badge&color=236ad3" />
   </a>
