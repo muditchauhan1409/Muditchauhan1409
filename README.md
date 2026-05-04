@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Mudit%20Chauhan&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Engineering%20Solutions%20%7C%20Java%20%26%20DSA%20Learner%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=16&descColor=8b949e&animation=fadeIn" />
+<h1 align="center">Hi 👋, I'm Mudit Chauhan</h1>
+<h3 align="center">Engineering Solutions | Java & DSA Learner | Full-Stack Developer in Progress</h3>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -169,7 +169,8 @@ public class MuditChauhan {
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" />
+---
+⭐ Star my repos if you find them useful! Let's connect and build something amazing together.
 
 *⭐ Star my repos if you find them useful! Let's connect and build something amazing together.*
 
