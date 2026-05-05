@@ -12,7 +12,7 @@
 
 <!-- Profile views & social badges -->
 <p>
-<img width="49%" src="https://gh-stats-gen.vercel.app/api?username=muditchauhan1409&theme=tokyonight&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=muditchauhan1409&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <a href="https://github.com/muditchauhan1409?tab=followers">
     <img src="https://img.shields.io/github/followers/muditchauhan1409?label=Followers&style=for-the-badge&color=236ad3" />
   </a>
@@ -29,7 +29,7 @@ public class MuditChauhan {
 
     String name       = "Mudit Chauhan";
     String location   = "Chauhan, India 🇮🇳";
-    String email      = "mudit57@gmail.com";
+    String email      = "muditc57@gmail.com";
     String timezone   = "IST (UTC +5:30)";
 
     String[] currentFocus = {
@@ -44,11 +44,25 @@ public class MuditChauhan {
         "Advanced DSA Patterns"
     };
 
+    String internship = "Cognifyz Technologies ✅ (Completed)";
+
     String motto = "Always Learning. Always Building. 🔥";
 }
 ```
 
 > 💡 *I love building practical tech solutions that solve real human problems. Currently mastering DSA & Algorithms in Java while building full-stack projects.*
+
+---
+
+## 💼 Experience
+
+<div align="center">
+
+| Role | Company | Status |
+|------|---------|--------|
+| 🧑‍💻 Intern | **Cognifyz Technologies** | ✅ Completed |
+
+</div>
 
 ---
 
@@ -99,13 +113,13 @@ public class MuditChauhan {
 ## 📊 GitHub Stats
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muditchauhan1409&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=muditchauhan1409&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muditchauhan1409&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400&rank_icon=github" />
+<img width="49%" src="https://streak-stats.demolab.com?user=muditchauhan1409&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muditchauhan1409&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muditchauhan1409&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" />
 
 </div>
 
@@ -135,6 +149,7 @@ public class MuditChauhan {
 
 ```
 ✅ Become strong in problem-solving
+✅ Complete Internship at Cognifyz Technologies
 🔄 Build 3+ solid full-stack projects
 🔄 Crack top-level technical interviews
 🔄 Master System Design fundamentals
@@ -158,10 +173,9 @@ public class MuditChauhan {
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mudit57@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muditc57@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muditchauhan1409)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mudit-chauhan-atwork/)
-
 
 </div>
 
@@ -169,9 +183,6 @@ public class MuditChauhan {
 
 <div align="center">
 
----
 ⭐ Star my repos if you find them useful! Let's connect and build something amazing together.
-
-*⭐ Star my repos if you find them useful! Let's connect and build something amazing together.*
 
 </div>
