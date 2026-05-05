@@ -114,12 +114,16 @@ public class MuditChauhan {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muditchauhan1409&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400&rank_icon=github" />
+<img width="49%" src="https://github-stats-alpha.vercel.app/api?username=muditchauhan1409&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
 <img width="49%" src="https://streak-stats.demolab.com?user=muditchauhan1409&theme=tokyonight&hide_border=true" />
 
-<br/>
+<br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muditchauhan1409&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muditchauhan1409&theme=tokyonight" width="98%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muditchauhan1409&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muditchauhan1409&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muditchauhan1409&theme=tokyonight&utcOffset=5.5" width="32%" />
 
 </div>
 
